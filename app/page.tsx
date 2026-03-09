@@ -307,7 +307,7 @@ export default function Home() {
               </div>
               <div className="name">
                 <i className="fa-solid fa-heart"></i>
-                <span>Gửi Thanh Tuyền</span>
+                <span>Gửi Thảo Vy</span>
                 <i className="fa-solid fa-heart"></i>
               </div>
               <div className="balloon_one">
